@@ -16,7 +16,7 @@ html {
     color: #676767;
 }
 .w3-gradientbkg, .w3-hover-gradientbkg:hover, .w3-gradientbkg {
-    background: rgba(0, 0, 0, 0) linear-gradient(141deg, #f32063 0%, #065157 51%, #35a5cf 75%) repeat scroll 0 0;
+    background: #eee;
     color: #fff;
 }
 html {
