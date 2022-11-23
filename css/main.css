@@ -1143,6 +1143,7 @@ a {
 .w3-white, .w3-hover-white:hover {
     background-color: #fff;
     color: #000;
+    border-radius:10px;
 }
 .w3-black, .w3-hover-black:hover {
     background-color: #000;
