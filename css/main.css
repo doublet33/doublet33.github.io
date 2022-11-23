@@ -18,6 +18,7 @@ html {
 .w3-gradientbkg, .w3-hover-gradientbkg:hover, .w3-gradientbkg {
     background: #eee;
     color: #fff;
+    border-radius: 10px;
 }
 html {
 }
