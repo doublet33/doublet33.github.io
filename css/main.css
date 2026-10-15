@@ -63,6 +63,7 @@ h1 { margin-bottom: 24px; font-size: clamp(54px, 7vw, 82px); line-height: 1.02; 
 .job-detail { max-width: 720px; }
 .job-kicker { margin-bottom: 4px; color: var(--teal); font-size: 10px; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; }
 .job h3 { margin-bottom: 4px; font-size: 21px; line-height: 1.35; letter-spacing: -.035em; }
+.job-progression { margin-bottom: 10px; color: var(--muted); font-size: 12px; }
 .job-org { margin-bottom: 16px; color: var(--ink); font-size: 13px; font-weight: 700; }
 .job-org span { color: #89979a; font-weight: 400; }
 .job p:not(.job-kicker):not(.job-org) { margin-bottom: 0; color: var(--muted); font-size: 13px; }
